@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Shravani Halaye.</h1>
 <h3 align="center">An engineering undergrad in Artificial Intelligence & Data Science. A passionate about Data Analysis from India</h3>
-<img align ="centre" alt="coding" width="400" src="https://assignmenthelp247.com/assets/images/our-writer.png">
+<img align ="centre" alt="coding" width="400" src="https://www.thewebfactory.us/images/service/Content_Writing%20Services.png">
   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shravni1&label=Profile%20views&color=0e75b6&style=flat" alt="shravni1" /> </p>
